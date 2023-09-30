@@ -1,0 +1,9 @@
+Layer		Material	Thickness [mm]
+---
+Top		Copper		0.035
+-		Prepreg		0.11
+Inner top	Copper		0.035
+-		Core		1.2
+Inner bottom	Copper		0.035
+-		Prepreg		0.11
+Bottom		Copper		0.035
