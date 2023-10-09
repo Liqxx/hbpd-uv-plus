@@ -26,7 +26,9 @@ It is the user's full responsibility to adhere to appropriate laser safety proce
 For viewing the manufacturing Gerber RS-274X files, we recommend the open-source gerber file viewer https://github.com/gerbv/gerbv, or your preferred electronics design software.
 
 ## Citation
-*coming soon*
+F. Henningsen, N. Braam *et al* 2023 *JINST* **18** P10010
+
+**DOI** [10.1088/1748-0221/18/10/P10010](https://iopscience.iop.org/article/10.1088/1748-0221/18/10/P10010)
 
 ## Licence
 Licensing differs for the various sub-components, and license information for all individual packages is included in the respective sub-directories.
